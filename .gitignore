@@ -1,0 +1,6 @@
+node_modules
+.DS_Store
+.settings
+bower_components
+.c9
+public/lib
